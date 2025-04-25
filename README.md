@@ -43,7 +43,7 @@ Jupyter Notebook
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/machine-failure-detection.git
+git clone https://github.com/DoniyorbekYuldashev/machine-failure-detection.git
 cd machine-failure-detection
 
 
