@@ -84,3 +84,4 @@ Notes
 
 The dataset is not included in the repository. Source it (e.g., from Kaggle) and update the notebook’s file path.
 The notebook handles imbalanced data; review SMOTE application for optimal results."# MachineFailureDetection" 
+"Initial project setup" 
