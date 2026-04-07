@@ -1,4 +1,4 @@
-The Machine Failure Detection project predicts machine failures in industrial settings using sensor data, enabling predictive maintenance to minimize downtime. It uses machine learning to classify machines as likely to fail (1) or not (0) and predict failure probability via regression. The analysis is performed in a Jupyter notebook (MachineFailureDetection.ipynb) using a dataset with sensor measurements (e.g., temperature, torque, tool wear) and evaluates models like Random Forest, XGBoost, and SVM.
+The Machine Failure Detection project predicts machine failures in industrial settings using sensor data, enabling predictive maintenance to minimize downtime. It uses machine learning to classify machines as likely to fail (1) or not (0) and predict failure probability via classification. The analysis is performed in a Jupyter notebook (MachineFailureDetection.ipynb) using a dataset with sensor measurements (e.g., temperature, torque, tool wear) and evaluates models like Random Forest, XGBoost, and SVM.
 Objectives
 
 Build models to predict machine failures accurately.
